@@ -62,7 +62,8 @@ It was developed as a solo learning project to better understand 3D rendering pi
 
 ## 🖼️ Screenshot
 
-![RubikCube3D Preview](111.png)
+![RubikCube3D Preview](Docs/image1.png)
+![RubikCube3D Preview](Docs/image2.png)
 
 ---
 

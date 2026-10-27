@@ -29,3 +29,8 @@ C:\Users\oneto\source\repos\rubix_cube_opentk\rubix_cube_opentk\obj\Debug\net8.0
 C:\Users\oneto\source\repos\rubix_cube_opentk\rubix_cube_opentk\obj\Debug\net8.0\ref\rubix_cube_opentk.dll
 C:\Users\oneto\source\repos\rubix_cube_opentk\rubix_cube_opentk\bin\Debug\net8.0\StbImageSharp.dll
 C:\Users\oneto\source\repos\rubix_cube_opentk\rubix_cube_opentk\bin\Debug\net8.0\OpenTK.OpenAL.dll
+D:\3D_rubiks_cube_using_OpenTK\rubix_cube_opentk\rubix_cube_opentk\obj\Debug\net8.0\rubix_cube_opentk.csproj.AssemblyReference.cache
+D:\3D_rubiks_cube_using_OpenTK\rubix_cube_opentk\rubix_cube_opentk\obj\Debug\net8.0\rubix_cube_opentk.GeneratedMSBuildEditorConfig.editorconfig
+D:\3D_rubiks_cube_using_OpenTK\rubix_cube_opentk\rubix_cube_opentk\obj\Debug\net8.0\rubix_cube_opentk.dll
+D:\3D_rubiks_cube_using_OpenTK\rubix_cube_opentk\rubix_cube_opentk\obj\Debug\net8.0\refint\rubix_cube_opentk.dll
+D:\3D_rubiks_cube_using_OpenTK\rubix_cube_opentk\rubix_cube_opentk\obj\Debug\net8.0\rubix_cube_opentk.pdb

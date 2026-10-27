@@ -438,11 +438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oneto\\source\\repos\\rubix_cube_opentk\\rubix_cube_opentk\\rubix_cube_opentk.csproj",
+      "projectUniqueName": "D:\\3D_rubiks_cube_using_OpenTK\\rubix_cube_opentk\\rubix_cube_opentk\\rubix_cube_opentk.csproj",
       "projectName": "rubix_cube_opentk",
-      "projectPath": "C:\\Users\\oneto\\source\\repos\\rubix_cube_opentk\\rubix_cube_opentk\\rubix_cube_opentk.csproj",
+      "projectPath": "D:\\3D_rubiks_cube_using_OpenTK\\rubix_cube_opentk\\rubix_cube_opentk\\rubix_cube_opentk.csproj",
       "packagesPath": "C:\\Users\\oneto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oneto\\source\\repos\\rubix_cube_opentk\\rubix_cube_opentk\\obj\\",
+      "outputPath": "D:\\3D_rubiks_cube_using_OpenTK\\rubix_cube_opentk\\rubix_cube_opentk\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -476,7 +476,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -507,7 +507,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
